@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; I am Computer Science and Engineering  Student
-- 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
 
