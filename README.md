@@ -1,9 +1,9 @@
 <h2> Hey there! I'm Abhishek.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
+- 🎓 &nbsp; I am Computer Science and Engineering  Student
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science and Engineering at Babu banarasi das national institute of technology & management.
+
 
 <h3> 🛠 &nbsp;Technologies</h3>
 
